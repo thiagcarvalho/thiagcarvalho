@@ -21,10 +21,10 @@ Atualmente estou estudando:
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagcarvalho&&show_icons=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagcarvalho&&show_icons=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagcarvalho&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagcarvalho&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </a>
 
 
