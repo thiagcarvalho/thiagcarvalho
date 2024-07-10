@@ -12,7 +12,7 @@
 
 Atualmente estou estudando:
 
-* Python, Django, SQL e PowerBI
+* Python, Pandas, Flask e Docker
 * Ferramentas e Tecnologias relacionadas ao DevOps
 * Shell/Linux
 
