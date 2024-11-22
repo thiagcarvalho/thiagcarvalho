@@ -6,7 +6,7 @@
 
 🎓 Estudante de Engenharia de computação. 
 
-📓 Interessado em DevOps, Desenvolvimento backend, Inteligência Artificial, mineração e ciências de dados.
+📓 Interessado em DevOps, Automação de Redes, Inteligência Artificial.
 
 ⚡ Apaixonado por futebol e ciclista amador.
 
@@ -15,6 +15,7 @@ Atualmente estou estudando:
 * Python, Pandas, Flask e Docker
 * Ferramentas e Tecnologias relacionadas ao DevOps
 * Shell/Linux
+* Zabbix, Elastic, Grafana
 
 ---
 
