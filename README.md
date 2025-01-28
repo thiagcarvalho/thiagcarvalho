@@ -13,9 +13,8 @@
 Atualmente estou estudando:
 
 * Python, Pandas, Flask e Docker
+* Shell, Linux, Bash
 * Ferramentas e Tecnologias relacionadas ao DevOps
-* Shell/Linux
-* Zabbix, Elastic, Grafana
 
 ---
 
