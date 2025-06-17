@@ -6,13 +6,13 @@
 
 🎓 Estudante de Engenharia de computação. 
 
-📓 Interessado em DevOps, Automação de Redes, Inteligência Artificial.
+📓 Interessado em Desenvolvimento Full-Stack com foco em Backend, DevOps e Infraestrutura.
 
 ⚡ Apaixonado por futebol e ciclista amador.
 
 Atualmente estou estudando:
 
-* Python, Pandas, Flask e Docker
+* React, C#, RabbitMQ e Docker
 * Shell, Linux, Bash
 * Ferramentas e Tecnologias relacionadas ao DevOps
 
