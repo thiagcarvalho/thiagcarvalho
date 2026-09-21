@@ -1,6 +1,6 @@
 # Thiago Carvalho
 
-Full Stack Software Engineer specializing in .NET Core, distributed systems, and cloud infrastructure.
+Full-stack developer specializing in .NET Core, distributed systems, and cloud infrastructure.
 
 ### Core Engineering
 
@@ -9,4 +9,3 @@ Full Stack Software Engineer specializing in .NET Core, distributed systems, and
 * **Frontend:** TypeScript, JavaScript, React
 * **DevOps & Cloud:** Docker, GitHub Actions (CI/CD), Terraform (IaC), Azure
 
----
